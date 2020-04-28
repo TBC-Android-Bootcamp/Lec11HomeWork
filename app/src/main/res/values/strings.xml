@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lec11-Home</string>
+    <string name="bacho">Bacho</string>
+    <string name="gvelesiani">Gvelesiani</string>
+    <string name="bgvelesiani2_gmail_com">bgvelesiani2@gmail.com</string>
+    <string name="_18_november_1998">18 November 1998</string>
+    <string name="male">Male</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
